@@ -1,7 +1,7 @@
 # TOC
 
 - CSS  
-  - [Css specificity](https://hasanjoldic.github.io/notes/html/css-specificity)
+  - [Css specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
 
 - HTML  
   - [Event propagation](https://hasanjoldic.github.io/notes/html/event-propagation)
