@@ -10,7 +10,7 @@
   - [script](https://hasanjoldic.github.io/notes/html/script)
 
 - Web
-  - headers
+  - Headers
     - [Cache-Control](https://hasanjoldic.github.io/notes/html/headers/cache-control)
     - [Content-Security-Policy](https://hasanjoldic.github.io/notes/html/headers/content-security-policy)
   - [Cookies](https://hasanjoldic.github.io/notes/web/cookies)
