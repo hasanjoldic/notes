@@ -1,4 +1,4 @@
-# Content security policy (CSP)
+# Content-Security-Policy (CSP)
 
 CSP allows us to define all allowed resources.
 

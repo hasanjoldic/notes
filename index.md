@@ -12,6 +12,8 @@
 - Web
   - Headers
     - [Cache-Control](https://hasanjoldic.github.io/notes/html/headers/cache-control)
-    - [Content-Security-Policy](https://hasanjoldic.github.io/notes/html/headers/content-security-policy)
+    - [Content-Security-Policy (CST)](https://hasanjoldic.github.io/notes/html/headers/content-security-policy)
+    - [Strict-Content-Security](https://hasanjoldic.github.io/notes/html/headers/strict-content-security)
+    - [Cross-Origin Resource Sharing (CORS)](https://hasanjoldic.github.io/notes/html/headers/cross-origin-resource-sharing)
   - [Cookies](https://hasanjoldic.github.io/notes/web/cookies)
   - [Status codes](https://hasanjoldic.github.io/notes/web/status-codes)
