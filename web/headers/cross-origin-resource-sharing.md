@@ -78,4 +78,5 @@ The `Access-Control-Allow-Credentials` response header tells browsers whether to
 ## Questions
 
 Q: Which requests required a prefligh request?
+
 A: All non-simple requests. Simple requests are `GET`, `POST`, `HEAD` with safelisted headers. 
