@@ -23,9 +23,9 @@ Attributes:
 
 ## Notes
 
-> Scripts without the `async` or `defer` attribute are fetched and executed immediately before the browser continues to parse the page.
+- Scripts without the `async` or `defer` attribute are fetched and executed immediately before the browser continues to parse the page.
 
-The script should be served with the `text/javascript` MIME type, but browsers are lenient and only block them if the script is served with an image type (`image/*`), a video type (`video/*`), an audio type (`audio/*`), or `text/csv`. If the script is blocked, an error event is sent to the element; otherwise, a load event is sent.
+- The script should be served with the `text/javascript` MIME type, but browsers are lenient and only block them if the script is served with an image type (`image/*`), a video type (`video/*`), an audio type (`audio/*`), or `text/csv`. If the script is blocked, an error event is sent to the element; otherwise, a load event is sent.
 
 ## Best practices
 
