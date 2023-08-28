@@ -2,6 +2,7 @@
 
 - CSS  
   - [Resource hints](https://hasanjoldic.github.io/notes/html/css-specificity)
+  
 - HTML  
   - [Resource hints](https://hasanjoldic.github.io/notes/html/event-propagation)
   - [Resource hints](https://hasanjoldic.github.io/notes/html/refer-policy)

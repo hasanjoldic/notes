@@ -27,6 +27,7 @@ Cookie: yummy_cookie=choco; tasty_cookie=strawberry
 
 - Use the `HttpOnly` attribute to prevent access to cookie values via JavaScript.
 - Use `Secure` to prevent the cookie being sent on non HTTPS connections.
+- Either `Max-Age` or `Expires` should be set - otherwise the cookie would be a session cookie.
 - Cookies that are used for sensitive information (such as indicating authentication) should have the `SameSite` attribute set to `Strict` or `Lax`. This ensures that the authentication cookie isn't sent with cross-site requests. __Setting it to `Lax` is recommended.__ `Lax` will allow your site to be reachable by users clicking links in other sites, but it will prevent POST requests from forms.
 - `Domain` should always be set to indicate whether it should be valid only for a specific domain or for all of its subdomains as well.
 
