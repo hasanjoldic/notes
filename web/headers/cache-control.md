@@ -32,7 +32,7 @@ The `Cache-Control` HTTP header field holds directives — in both requests and 
 
 | Request        | Response               |
 | -------------- | ---------------------- |
-| max-age       | max-age               |
+| max-age        | max-age               |
 | no-cache       | no-cache               |
 | no-store       | no-store               |
 | -              | must-revalidate        |
