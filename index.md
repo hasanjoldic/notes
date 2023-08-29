@@ -1,5 +1,8 @@
 # TOC
 
+- Browser  
+  - [Populating the page](https://hasanjoldic.github.io/notes/browser/populating-the-page)
+
 - Git  
   - [Conventional commits](https://hasanjoldic.github.io/notes/git/conventional-commits)
 
