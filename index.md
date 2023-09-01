@@ -6,12 +6,12 @@
 - Browser  
   - [Populating the page](https://hasanjoldic.github.io/notes/browser/populating-the-page)
 
-- Git  
-  - [Conventional commits](https://hasanjoldic.github.io/notes/git/conventional-commits)
-
 - CSS  
   - [CSS performance optimization](https://hasanjoldic.github.io/notes/css/css-performance-optimization)
   - [CSS specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
+
+- Git  
+  - [Conventional commits](https://hasanjoldic.github.io/notes/git/conventional-commits)
 
 - HTML  
   - [Event propagation](https://hasanjoldic.github.io/notes/html/event-propagation)
@@ -19,8 +19,6 @@
   - [Resource hints](https://hasanjoldic.github.io/notes/html/resource-hints)
   - [script](https://hasanjoldic.github.io/notes/html/script)
 
-- Org
-  - [Agile](https://hasanjoldic.github.io/notes/org/agile)
 
 - HTTP
   - Headers
@@ -31,3 +29,12 @@
   - [Cookies](https://hasanjoldic.github.io/notes/http/cookies)
   - [Mime types](https://hasanjoldic.github.io/notes/http/mime-types)
   - [HTTP status codes](https://hasanjoldic.github.io/notes/http/status-codes)
+
+- Org
+  - [Agile](https://hasanjoldic.github.io/notes/org/agile)
+
+- Web APIs
+  - [CSS Counter Styles](https://hasanjoldic.github.io/notes/web-apis/css-counter-styles)
+  - [Fullscreen API](https://hasanjoldic.github.io/notes/web-apis/fullscreen)
+  - [Page visibility API](https://hasanjoldic.github.io/notes/web-apis/page-visibility)
+  
