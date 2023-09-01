@@ -1,4 +1,4 @@
-# Generate a random string:
+# Generate a random string (for passwords and tokens)
 
 ```terminal
 openssl rand -hex 32

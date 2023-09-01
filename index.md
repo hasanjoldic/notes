@@ -1,5 +1,8 @@
 # TOC
 
+- Bash commands  
+  - [Generate a random string (for passwords and tokens)](https://hasanjoldic.github.io/notes/browser/generate-random-string)
+
 - Browser  
   - [Populating the page](https://hasanjoldic.github.io/notes/browser/populating-the-page)
 
@@ -28,6 +31,3 @@
   - [Cookies](https://hasanjoldic.github.io/notes/http/cookies)
   - [Mime types](https://hasanjoldic.github.io/notes/http/mime-types)
   - [Status codes](https://hasanjoldic.github.io/notes/http/status-codes)
-
-<!-- - Web development
-  - [Agile](https://hasanjoldic.github.io/notes/web-dev/web-development-checklist) -->
