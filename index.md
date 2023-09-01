@@ -19,7 +19,6 @@
   - [Resource hints](https://hasanjoldic.github.io/notes/html/resource-hints)
   - [script](https://hasanjoldic.github.io/notes/html/script)
 
-
 - HTTP
   - Headers
     - [Cache-Control](https://hasanjoldic.github.io/notes/http/headers/cache-control)
@@ -37,4 +36,7 @@
   - [CSS Counter Styles](https://hasanjoldic.github.io/notes/web-apis/css-counter-styles)
   - [Fullscreen API](https://hasanjoldic.github.io/notes/web-apis/fullscreen)
   - [Page visibility API](https://hasanjoldic.github.io/notes/web-apis/page-visibility)
-  
+  - [Permissions API](https://hasanjoldic.github.io/notes/web-apis/permissions)
+  - [Resize observer API](https://hasanjoldic.github.io/notes/web-apis/resize-observer)
+  - [Screen wake lock API](https://hasanjoldic.github.io/notes/web-apis/screen-wake-lock)
+  - [Service worker API](https://hasanjoldic.github.io/notes/web-apis/service-worker)
