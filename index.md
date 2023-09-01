@@ -7,8 +7,8 @@
   - [Conventional commits](https://hasanjoldic.github.io/notes/git/conventional-commits)
 
 - CSS  
-  - [CSS specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
   - [CSS performance optimization](https://hasanjoldic.github.io/notes/css/css-performance-optimization)
+  - [CSS specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
 
 - HTML  
   - [Event propagation](https://hasanjoldic.github.io/notes/html/event-propagation)
