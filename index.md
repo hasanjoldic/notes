@@ -30,4 +30,4 @@
     - [Strict-Transport-Security](https://hasanjoldic.github.io/notes/http/headers/strict-transport-security)
   - [Cookies](https://hasanjoldic.github.io/notes/http/cookies)
   - [Mime types](https://hasanjoldic.github.io/notes/http/mime-types)
-  - [Status codes](https://hasanjoldic.github.io/notes/http/status-codes)
+  - [HTTP status codes](https://hasanjoldic.github.io/notes/http/status-codes)

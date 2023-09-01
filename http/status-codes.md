@@ -1,16 +1,22 @@
-# KNOW YOUR HTTP status codes WELL
+# HTTP status codes
 
-> The status-code element is a 3-digit integer code giving the result of the attempt to understand and satisfy the request.
+The status-code element is a 3-digit integer code giving the result of the attempt to understand and satisfy the request.
 
 ## Classes
 
-> The first digit of the status-code defines the class of response. The last two digits do not have any categorization role. There are 5 values for the first digit:
+The first digit of the status-code defines the class of response. The last two digits do not have any categorization role. There are 5 values for the first digit:
+
+- `1xx` Information
+- `2xx` Successful
+- `3xx` Redirection
+- `4xx` Client error
+- `5xx` Server error
 
 ## Common
 
 ### 1xx
 
-|  code | reason              | description                                                                                                                                                                  |
+|  Code | Reason              | Description                                                                                                                                                                  |
 | ----: | :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1xx` | **Informational**   | Interim response for communicating connection status or request progress prior to completing the requested action and sending a final response.                              |
 | `100` | Continue            | Initial part of a request has been received and has not yet been rejected by the server.                                                                                     |
@@ -18,7 +24,7 @@
 
 ### 2xx
 
-|  code | reason                        | description                                                                                                                                                                                                                      |
+|  Code | Reason                        | Description                                                                                                                                                                                                                      |
 | ----: | :---------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `2xx` | **Successful**                | Client's request was successfully received, understood, and accepted.                                                                                                                                                            |
 | `200` | OK                            | Request has succeeded.                                                                                                                                                                                                           |
@@ -31,7 +37,7 @@
 
 ### 3xx
 
-|  code | reason             | description                                                                                                                                                                                                                                                                                   |
+|  Code | Reason             | Description                                                                                                                                                                                                                                                                                   |
 | ----: | :----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `3xx` | **Redirection**    | Further action needs to be taken by the user agent in order to fulfill the request.                                                                                                                                                                                                           |
 | `300` | Multiple Choices   | Target resource has more than one representation, each with its own more specific identifier, and information about the alternatives is being provided so that the user (or user agent) can select a preferred representation by redirecting its request to one or more of those identifiers. |
@@ -45,7 +51,7 @@
 
 ### 4xx
 
-|  code | reason                        | description                                                                                                                                                                                                                                      |
+|  Code | Reason                        | Description                                                                                                                                                                                                                                      |
 | ----: | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `4xx` | **Client Error**              | Client seems to have erred.                                                                                                                                                                                                                      |
 | `400` | Bad Request                   | Server cannot or will not process the request because the received syntax is invalid, nonsensical, or exceeds some limitation on what the server is willing to process.                                                                          |
@@ -71,7 +77,7 @@
 
 ### 5xx
 
-|  code | reason                     | description                                                                                                                                                 |
+|  Code | Reason                     | Description                                                                                                                                                 |
 | ----: | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `5xx` | **Server Error**           | Server is aware that it has erred or is incapable of performing the requested method.                                                                       |
 | `500` | Internal Server Error      | Server encountered an unexpected condition that prevented it from fulfilling the request.                                                                   |
@@ -83,7 +89,7 @@
 
 ## Extensions
 
-|  code | reason                          | description                                                                                                                                                                                                                                                                                 |
+|  Code | Reason                          | Description                                                                                                                                                                                                                                                                                 |
 | ----: | :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `102` | Processing                      | Interim response used to inform the client that the server has accepted the complete request, but has not yet completed it.                                                                                                                                                                 |
 | `207` | Multi-Status                    | provides status for multiple independent operations.                                                                                                                                                                                                                                        |
