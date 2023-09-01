@@ -7,7 +7,8 @@
   - [Conventional commits](https://hasanjoldic.github.io/notes/git/conventional-commits)
 
 - CSS  
-  - [Css specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
+  - [CSS specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
+  - [CSS performance optimization](https://hasanjoldic.github.io/notes/css/css-performance-optimization)
 
 - HTML  
   - [Event propagation](https://hasanjoldic.github.io/notes/html/event-propagation)
@@ -27,3 +28,6 @@
   - [Cookies](https://hasanjoldic.github.io/notes/http/cookies)
   - [Mime types](https://hasanjoldic.github.io/notes/http/mime-types)
   - [Status codes](https://hasanjoldic.github.io/notes/http/status-codes)
+
+<!-- - Web development
+  - [Agile](https://hasanjoldic.github.io/notes/web-dev/web-development-checklist) -->
