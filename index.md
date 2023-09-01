@@ -1,7 +1,7 @@
 # TOC
 
 - Bash commands  
-  - [Generate a random string (for passwords and tokens)](https://hasanjoldic.github.io/notes/browser/generate-random-string)
+  - [Generate a random string (for passwords and tokens)](https://hasanjoldic.github.io/notes/bash-commands/generate-random-string)
 
 - Browser  
   - [Populating the page](https://hasanjoldic.github.io/notes/browser/populating-the-page)
