@@ -22,9 +22,9 @@
 - HTTP
   - Headers
     - [Cache-Control](https://hasanjoldic.github.io/notes/http/headers/cache-control)
-    - [Content-Security-Policy (CST)](https://hasanjoldic.github.io/notes/http/headers/content-security-policy)
+    - [Content-Security-Policy (CSP)](https://hasanjoldic.github.io/notes/http/headers/content-security-policy)
     - [Cross-Origin Resource Sharing (CORS)](https://hasanjoldic.github.io/notes/http/headers/cross-origin-resource-sharing)
-    - [Strict-Content-Security](https://hasanjoldic.github.io/notes/http/headers/strict-content-security)
+    - [Strict-Transport-Security](https://hasanjoldic.github.io/notes/http/headers/strict-transport-security)
   - [Cookies](https://hasanjoldic.github.io/notes/http/cookies)
   - [Mime types](https://hasanjoldic.github.io/notes/http/mime-types)
   - [Status codes](https://hasanjoldic.github.io/notes/http/status-codes)
