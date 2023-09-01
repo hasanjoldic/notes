@@ -1,54 +1,47 @@
 # Agile
 
-<details>
+> Manifesto for Agile Software Development
+>
+> [principles](https://agilemanifesto.org/principles.html)
+>
+> [history](https://agilemanifesto.org/history.html)
+>
+> ---
+>
+> - __Individuals and interactions__ over processes and tools
+>
+> - __Working software__ over comprehensive documentation
+>
+> - __Customer collaboration__ over contract negotiation
+>
+> - __Responding to change__ over following a plan
+>
+> ---
+>
+> - __Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.__
+>
+> - __Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.__
+>
+> - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+>
+> - Business people and developers must work together daily throughout the project.
+>
+> - __Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.__
+>
+> - The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+>
+> - __Working software is the primary measure of progress.__
+>
+> - Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+>
+> - Continuous attention to technical excellence and good design enhances agility.
+>
+> - Simplicity - the art of maximizing the amount of work not done - is essential.
+>
+> - __The best architectures, requirements, and designs emerge from self-organizing teams.__
+>
+> - At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-<summary>Manifesto for Agile Software Development</summary>
-
-<br />
-
-[principles](https://agilemanifesto.org/principles.html)
-
-[history](https://agilemanifesto.org/history.html)
-
----
-
-- __Individuals and interactions__ over processes and tools
-
-- __Working software__ over comprehensive documentation
-
-- __Customer collaboration__ over contract negotiation
-
-- __Responding to change__ over following a plan
-
----
-
-- __Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.__
-
-- __Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.__
-
-- Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-
-- Business people and developers must work together daily throughout the project.
-
-- __Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.__
-
-- The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-
-- __Working software is the primary measure of progress.__
-
-- Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-
-- Continuous attention to technical excellence and good design enhances agility.
-
-- Simplicity - the art of maximizing the amount of work not done - is essential.
-
-- __The best architectures, requirements, and designs emerge from self-organizing teams.__
-
-- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
-
----
-
-</details>
 
 Working in an agile way, in essence, means being adaptable to changes and not being rigid.
 
