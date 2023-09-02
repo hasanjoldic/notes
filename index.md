@@ -1,68 +1,42 @@
-# Hasan Joldic - Software Developer - Fullstack
+# TOC
 
-E-Mail: <joldic.hasan@gmail.com>  
-Phone: +48 733 741 882  
-Location: Łódź - Poland  
-GitHub: [hasanjoldic](https://github.com/hasanjoldic)  
-LinkedIn: [hasanjoldic](https://www.linkedin.com/in/hasanjoldic/)  
+- Bash commands  
+  - [Generate a random string (for passwords and tokens)](https://hasanjoldic.github.io/notes/bash-commands/generate-random-string)
 
-Most often used tools and technologies:
+- Browser  
+  - [Populating the page](https://hasanjoldic.github.io/notes/browser/populating-the-page)
 
-- Javascript (Typescript)
-- React (Next.js)
-- Node.js (Express)
-- SQL (Postgres)
-- REST and OpenAPI
-- GraphQL
-- AWS
+- CSS  
+  - [CSS performance optimization](https://hasanjoldic.github.io/notes/css/css-performance-optimization)
+  - [CSS specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
 
-## Experience
+- Git  
+  - [Conventional commits](https://hasanjoldic.github.io/notes/git/conventional-commits)
 
-### Gaia (gaia.law) _03.2023 - 07.2023_
+- HTML  
+  - [Event propagation](https://hasanjoldic.github.io/notes/html/event-propagation)
+  - [Refer policy](https://hasanjoldic.github.io/notes/html/refer-policy)
+  - [Resource hints](https://hasanjoldic.github.io/notes/html/resource-hints)
+  - [script](https://hasanjoldic.github.io/notes/html/script)
 
-Directing the development of an all-in-one webapp, providing startups with tools for business planning and contract management, including e-signing.
+- HTTP
+  - Headers
+    - [Cache-Control](https://hasanjoldic.github.io/notes/http/headers/cache-control)
+    - [Content-Security-Policy (CSP)](https://hasanjoldic.github.io/notes/http/headers/content-security-policy)
+    - [Cross-Origin Resource Sharing (CORS)](https://hasanjoldic.github.io/notes/http/headers/cross-origin-resource-sharing)
+    - [Strict-Transport-Security](https://hasanjoldic.github.io/notes/http/headers/strict-transport-security)
+  - [Cookies](https://hasanjoldic.github.io/notes/http/cookies)
+  - [Mime types](https://hasanjoldic.github.io/notes/http/mime-types)
+  - [HTTP status codes](https://hasanjoldic.github.io/notes/http/status-codes)
 
-- Next.js
-- Rails
-- MongoDB
-- DigitalOcean
+- Org
+  - [Agile](https://hasanjoldic.github.io/notes/org/agile)
 
-### Kitrum (kitrum.com) _06.2022 - 02.2023_
-
-Managing feature addition and codebase improvements on a legacy app, enhancing maintainability, security, and testability.
-
-- Next.js
-- Express.js
-- Postgres
-- GraphQL
-- AWS
-
-### --- (Student Exchange Semester from 01.22 to 06.22) ---
-
-### Flare Emergency Services (flare.co.ke) _07.2018 - 01.2022_
-
-Managing a critical real-time webapp for emergency dispatchers, prioritizing zero downtime to ensure uninterrupted emergency responses.
-
-- React
-- GraphQL
-- Google Maps
-
-### ISHAP GmbH (ishap.at) _04.2016 - 07.2018_
-
-Managing end-to-end development of a webapp enabling user-created forms, enforcing intricate user roles and permissions logic.
-
-- React
-- Hapi.js
-- Postgres
-
-## Education
-
-- University of Vienna, Vienna — BSc in Chemistry, 2012 - 2016
-- University of Sarajevo, Sarajevo — BSc in Management, 2020 - Present
-
-## Languages
-
-- English (Fluent)
-- German (Fluent)
-- Bosnian (Native)
-- Polish (Intermediate)
+- Web APIs
+  - [CSS Counter Styles](https://hasanjoldic.github.io/notes/web-apis/css-counter-styles)
+  - [Fullscreen API](https://hasanjoldic.github.io/notes/web-apis/fullscreen)
+  - [Page visibility API](https://hasanjoldic.github.io/notes/web-apis/page-visibility)
+  - [Permissions API](https://hasanjoldic.github.io/notes/web-apis/permissions)
+  - [Resize observer API](https://hasanjoldic.github.io/notes/web-apis/resize-observer)
+  - [Screen wake lock API](https://hasanjoldic.github.io/notes/web-apis/screen-wake-lock)
+  - [Service worker API](https://hasanjoldic.github.io/notes/web-apis/service-worker)
