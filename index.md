@@ -30,6 +30,9 @@
 - Org
   - [Agile](https://hasanjoldic.github.io/notes/org/agile)
 
+- Unix commands
+  - [Search files](https://hasanjoldic.github.io/notes/unix/search-files)
+
 - Web APIs
   - [CSS Counter Styles](https://hasanjoldic.github.io/notes/web-apis/css-counter-styles)
   - [Fullscreen API](https://hasanjoldic.github.io/notes/web-apis/fullscreen)
