@@ -1,5 +1,3 @@
-# TOC
-
 - Bash commands  
   - [Generate a random string (for passwords and tokens)](https://hasanjoldic.github.io/notes/bash-commands/generate-random-string)
 
