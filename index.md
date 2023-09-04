@@ -7,9 +7,16 @@
 - CSS  
   - [CSS performance optimization](https://hasanjoldic.github.io/notes/css/css-performance-optimization)
   - [CSS specificity](https://hasanjoldic.github.io/notes/css/css-specificity)
+  - [Custom properties](https://hasanjoldic.github.io/notes/css/custom-properties)
 
 - Git  
   - [Conventional commits](https://hasanjoldic.github.io/notes/git/conventional-commits)
+
+- Github actions
+  - [Artifacts](https://hasanjoldic.github.io/notes/github-actions/artifacts)
+  - [Contexts](https://hasanjoldic.github.io/notes/github-actions/contexts)
+  - [Expressions](https://hasanjoldic.github.io/notes/github-actions/expressions)
+  - [Artifacts](https://hasanjoldic.github.io/notes/github-actions/variables)
 
 - HTML  
   - [Event propagation](https://hasanjoldic.github.io/notes/html/event-propagation)
@@ -27,8 +34,17 @@
   - [Mime types](https://hasanjoldic.github.io/notes/http/mime-types)
   - [HTTP status codes](https://hasanjoldic.github.io/notes/http/status-codes)
 
+- Node
+  - [Clustering](https://hasanjoldic.github.io/notes/http/node/clustering)
+
 - Org
   - [Agile](https://hasanjoldic.github.io/notes/org/agile)
+
+- Programming
+  - [Javascript testing best practices](https://hasanjoldic.github.io/notes/programming/solid)
+
+- Testing
+  - [Javascript testing best practices](https://hasanjoldic.github.io/notes/testing/best-practices)
 
 - Unix commands
   - [Search files](https://hasanjoldic.github.io/notes/unix/search-files)
