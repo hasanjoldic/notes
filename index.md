@@ -1,5 +1,6 @@
 - Bash commands  
   - [Generate a random string (for passwords and tokens)](https://hasanjoldic.github.io/notes/bash-commands/generate-random-string)
+  - [Aliases](https://hasanjoldic.github.io/notes/bash-commands/aliases)
 
 - Browser  
   - [Populating the page](https://hasanjoldic.github.io/notes/browser/populating-the-page)
@@ -42,6 +43,9 @@
 
 - Programming
   - [Javascript testing best practices](https://hasanjoldic.github.io/notes/programming/solid)
+
+- Standards  
+  - [ISO 8601 Dates](https://hasanjoldic.github.io/notes/dates/iso8601)
 
 - Testing
   - [Javascript testing best practices](https://hasanjoldic.github.io/notes/testing/best-practices)
